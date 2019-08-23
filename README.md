@@ -1,4 +1,4 @@
-# custom_qr_code
+# Custom QR Code
 
 A new Flutter application.
 
