@@ -1,6 +1,8 @@
 # Custom QR Code
 
-A new Flutter application.
+Customize QR Code Flutter application.
+
+![](screen_rec.gif)
 
 ## Getting Started
 
